@@ -11,5 +11,7 @@
   },
   "author": "",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "eslint-config-airbnb": "^17.0.0"
+  }
 }
