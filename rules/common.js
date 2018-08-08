@@ -19,4 +19,7 @@ module.exports = {
   'no-plusplus': ['error', { 'allowForLoopAfterthoughts': true }],
   // this allows us to use `for...of` which is occasionally useful
   'no-restricted-syntax': 'off',
+  // we can consider a more nuanced approach to this rule since
+  // it's very configurable but disabled for now
+  'object-curly-newline': 'off',
 };
