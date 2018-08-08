@@ -5,10 +5,6 @@ const a11yRules = require('./rules/a11y');
 module.exports = {
   extends: 'airbnb',
   parser: 'babel-eslint',
-  // env: {
-  //   browser: true,
-  //   node: true,
-  // },
   rules: {
     ...commonRules,
     ...reactRules,
