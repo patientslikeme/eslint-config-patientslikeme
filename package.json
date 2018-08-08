@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-patientslikeme",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "PatientsLikeMe's ESLint configurations",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,15 @@
   "engines": {
     "node": ">= 8.6.0"
   },
-  "author": "",
   "license": "MIT",
+  "author": "PatientsLikeMe Engineering",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patientslikeme/eslint-config-patientslikeme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/patientslikeme/eslint-config-patientslikeme/issues"
+  },
   "dependencies": {
     "babel-eslint": "^8.2.6",
     "eslint": "^4.19.1",
