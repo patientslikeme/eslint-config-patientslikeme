@@ -1,3 +1,10 @@
+## [v1.0.1]
+> 2018-08-08
+
+* Bugfix: incorrect file path
+
+[v1.0.1]: https://github.com/patientslikeme/eslint-config-patientslikeme/compare/v1.0.0...v1.0.1
+
 ## [v1.0.0]
 > 2018-08-08
 
