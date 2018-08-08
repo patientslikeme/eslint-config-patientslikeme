@@ -1,0 +1,17 @@
+{
+  "name": "eslint-config-patientslikeme",
+  "version": "1.0.0",
+  "description": "PatientsLikeMe's ESLint configurations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">= 8.6.0"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-airbnb": "^17.0.0"
+  }
+}
