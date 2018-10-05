@@ -13,6 +13,8 @@ module.exports = {
     'exports': 'always-multiline',
     'functions': 'ignore',
   }],
+  // this prevents `if` clauses from being on-liners without curly braces
+  'curly': ['error', 'all'],
   // 150 is an arbitrary but reasonable limit
   'max-len': ['error', 150, 4],
   // this will allow unary operators in for loops only
