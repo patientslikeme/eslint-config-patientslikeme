@@ -35,11 +35,11 @@ module.exports = {
       message: '`with` is disallowed in strict mode because it makes code impossible to predict and optimize.',
     },
     {
-      selector: 'MethodDefinition[kind='set']',
+      selector: 'MethodDefinition[kind="set"]',
       message: 'Property setters are not allowed',
     },
     {
-      selector: 'MethodDefinition[kind='get']',
+      selector: 'MethodDefinition[kind="get"]',
       message: 'Property getters are not allowed',
     },
   ],
