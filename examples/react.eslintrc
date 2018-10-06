@@ -1,0 +1,11 @@
+{
+  'root': true,
+  'extends': 'patientslikeme',
+  env: {
+    browser: true,
+  },
+  'parser': 'babel-eslint',
+  'rules': {
+    // add overrides here
+  },
+}

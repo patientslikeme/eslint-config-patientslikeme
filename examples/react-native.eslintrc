@@ -1,0 +1,28 @@
+{
+  extends: [
+    'patientslikeme/reactNative',
+    'patientslikeme/test',
+  ],
+  'globals': {
+    '__DEV__': true,
+  },
+  rules: {
+    'react/prop-types': ['error', { 'ignore': ['navigation'] }],
+    'react/jsx-filename-extension': 'off',
+    'brace-style': ['error', '1tbs', { 'allowSingleLine': false }],
+    'react-native/no-color-literals': 'off', // re-enable later
+  }
+}
+
+
+{
+  'root': true,
+  'extends': 'patientslikeme',
+  env: {
+    browser: true,
+  },
+  'parser': 'babel-eslint',
+  'rules': {
+    // add overrides here
+  },
+}

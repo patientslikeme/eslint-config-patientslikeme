@@ -1,0 +1,9 @@
+{
+  'extends': [
+    '../.eslintrc',
+    'patientslikeme/test',
+  ],
+  'rules': {
+    // add overrides here
+  }
+}
