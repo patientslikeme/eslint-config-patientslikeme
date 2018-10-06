@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-patientslikeme",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "PatientsLikeMe's ESLint configurations",
   "main": "index.js",
   "scripts": {
