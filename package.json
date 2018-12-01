@@ -19,7 +19,7 @@
     "url": "https://github.com/patientslikeme/eslint-config-patientslikeme/issues"
   },
   "dependencies": {
-    "babel-eslint": "^8.2.6",
+    "babel-eslint": "^9.0.0",
     "eslint": "^4.19.1",
     "eslint-config-airbnb": "^17.0.0",
     "eslint-plugin-import": "^2.12.0",
