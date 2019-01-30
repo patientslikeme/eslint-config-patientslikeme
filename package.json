@@ -23,7 +23,7 @@
     "eslint": "^5.0.0",
     "eslint-config-airbnb": "^17.0.0",
     "eslint-plugin-import": "^2.0.0",
-    "eslint-plugin-jest": "^21.0.0",
+    "eslint-plugin-jest": "^22.0.0",
     "eslint-plugin-jsx-a11y": "^6.0.0",
     "eslint-plugin-react": "^7.0.0",
     "eslint-plugin-react-native": "^3.0.0"
