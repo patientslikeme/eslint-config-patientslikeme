@@ -1,3 +1,19 @@
+## [v2.0.0]
+> 2019-01-30
+
+* Upgrade eslint to v5
+* Upgrade babel-eslint to v10
+
+[v2.0.0]: https://github.com/patientslikeme/eslint-config-patientslikeme/compare/v1.1.2...v2.0.0
+
+## [v1.1.2]
+> 2018-12-04
+
+* Upgrade eslint-plugin-react-native to v3.5
+* Upgrade babel-eslint to v9
+
+[v1.1.2]: https://github.com/patientslikeme/eslint-config-patientslikeme/compare/v1.1.1...v1.1.2
+
 ## [v1.1.1]
 > 2018-10-06
 
