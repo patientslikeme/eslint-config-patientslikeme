@@ -18,4 +18,11 @@ module.exports = {
   'react/prefer-stateless-function': 'off',
   // disabled because you end up writing a lot of { className: '' } default props
   'react/require-default-props': 'off',
+  // alpha-sort prop types for lack of a better idea
+  'react/sort-prop-types': ['error', {
+    'sortShapeProp': true,
+    'ignoreCase': true,
+  }],
+  // alpha-sort default props for consistency
+  'react/jsx-sort-default-props': ['error']
 };
