@@ -1,3 +1,10 @@
+## [v2.1.0]
+> 2019-04-09
+
+* Add prop-sorting rules for React components
+
+[v2.1.0]: https://github.com/patientslikeme/eslint-config-patientslikeme/compare/v2.0.0...v2.1.0
+
 ## [v2.0.0]
 > 2019-01-30
 
