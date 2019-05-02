@@ -4,7 +4,8 @@
   "description": "PatientsLikeMe's ESLint configurations",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug-config": "eslint --print-config index.js"
   },
   "engines": {
     "node": "^6.14.0 || ^8.10.0 || >=9.10.0"
